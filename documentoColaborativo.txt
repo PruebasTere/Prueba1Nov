@@ -1,1 +1,4 @@
 prueba 
+En el área de Trabajo Colaborativo Asistido por Computadora (CSCW), los Groupware son sistemas de información que apoyan a equipos de trabajo en la realización de una actividad colaborativa.
+Estos sistemas proporcionan información a través de mecanismos visuales que los usurios utilizan para comprender lo que sucede en el desarrollo de una actividad colaborativa.
+La información mostrada a los equipos apoya la generación de conciencia o awarenes de grupo, la cual es clave para la toma de decisiones,comunicación, colaboración y coordinación de los integrantes del equipo.
